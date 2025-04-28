@@ -122,7 +122,8 @@
     min-width: 13rem;
 
     border-radius: 1rem;
-
+    color: white;
+    text-decoration: none;
     background-color: #1875E8;
 }
 
@@ -137,7 +138,9 @@
     min-width: 13rem;
 
     border-radius: 1rem;
-
+    
+    color: white;
+    text-decoration: none;
     background-color: #01080E;
 }
 

@@ -6,7 +6,7 @@ let imagem = gameclicado.querySelector('.dashboard__item__img , .dashboard__item
 
 let botao = gameclicado.querySelector('.dashboard__item__button, .dashboard__item__button--return');
 
-let nomeJogo = gameclicado.querySelector('.dashboard__item__name');
+
 
 if (botao.classList.contains('dashboard__item__button')){
     botao.classList.remove('dashboard__item__button');
