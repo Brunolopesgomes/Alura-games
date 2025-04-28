@@ -2,8 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Inter:wght@600;700&display=swap');
 
 .body {
-    color: #FFFFFF;
-
+    color: white;
     min-height: 100vh;
 
     background: rgb(0, 0, 0);
@@ -120,7 +119,7 @@
 
     padding: 1rem 1.5rem;
     min-width: 13rem;
-
+    color: greenyellow;
     border-radius: 1rem;
     background-color: #1875E8;
 }
@@ -128,7 +127,7 @@
 .dashboard__item__button--return {
     display: flex;
     justify-content: center;
-
+    color: greenyellow;
     font-weight: 700;
     font-size: 1.5rem;
 
