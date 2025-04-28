@@ -10,7 +10,11 @@ ul {
     padding-inline: 0;
 }
 
+a {
+text-decoration: none;
+color: black;
 
+}
 
 
 img {
