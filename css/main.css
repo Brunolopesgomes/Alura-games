@@ -119,7 +119,7 @@
 
     padding: 1rem 1.5rem;
     min-width: 13rem;
-    color: greenyellow;
+    color: black;
     border-radius: 1rem;
     background-color: #1875E8;
 }
@@ -127,7 +127,7 @@
 .dashboard__item__button--return {
     display: flex;
     justify-content: center;
-    color: greenyellow;
+    color:  #1875E8;
     font-weight: 700;
     font-size: 1.5rem;
 
